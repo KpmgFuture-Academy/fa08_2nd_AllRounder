@@ -226,7 +226,8 @@
 
 ## 4. 프로젝트 주요 결과 요약
 - **메인대시보드 예시**:
- [대시보드](assets/dashboard.png)
+
+![대시보드](assets/dashboard.png)
 - **성과**:
   - XGBoost 기반 전력 피크 예측 모델 개발 완료 (R²=0.9663, RMSE=9.43kW)
   - 5탭 Streamlit 대시보드 및 HTML 확정본 완성
